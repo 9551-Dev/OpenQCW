@@ -1,0 +1,22 @@
+# Backup & Autosave Files
+*-backups/
+*_autosave-*
+\#auto_saved_files\#
+
+# KiCad backups misc
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# Temporary and Lock Files
+*.tmp
+*~
+~*
+*.lck
+
+# Cache, Project Local Settings
+fp-info-cache
+*.kicad_prl
+*-cache.lib
+*-rescue.lib
