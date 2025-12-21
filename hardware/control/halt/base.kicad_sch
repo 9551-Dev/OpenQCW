@@ -46,7 +46,7 @@
 		(instances
 			(project "hardware"
 				(path "/606d342f-174b-4504-b335-50f65aa4e733/9d9bac97-3577-4438-bb72-9616a5994fba"
-					(page "7")
+					(page "5")
 				)
 			)
 		)
@@ -88,7 +88,7 @@
 		(instances
 			(project "hardware"
 				(path "/606d342f-174b-4504-b335-50f65aa4e733/9d9bac97-3577-4438-bb72-9616a5994fba"
-					(page "4")
+					(page "3")
 				)
 			)
 			(project "base"
@@ -135,7 +135,7 @@
 		(instances
 			(project "hardware"
 				(path "/606d342f-174b-4504-b335-50f65aa4e733/9d9bac97-3577-4438-bb72-9616a5994fba"
-					(page "2")
+					(page "1")
 				)
 			)
 			(project "base"
@@ -182,7 +182,7 @@
 		(instances
 			(project "hardware"
 				(path "/606d342f-174b-4504-b335-50f65aa4e733/9d9bac97-3577-4438-bb72-9616a5994fba"
-					(page "6")
+					(page "4")
 				)
 			)
 		)
@@ -224,7 +224,7 @@
 		(instances
 			(project "hardware"
 				(path "/606d342f-174b-4504-b335-50f65aa4e733/9d9bac97-3577-4438-bb72-9616a5994fba"
-					(page "3")
+					(page "2")
 				)
 			)
 			(project "base"

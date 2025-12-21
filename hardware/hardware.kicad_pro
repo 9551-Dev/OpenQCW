@@ -627,12 +627,12 @@
       "halt_uvlo"
     ],
     [
-      "9d9bac97-3577-4438-bb72-9616a5994fba",
-      "halt_board"
-    ],
-    [
       "a409a8cb-f964-452b-bbc0-32d52bd5757c",
       "halt_ocd_buck"
+    ],
+    [
+      "9d9bac97-3577-4438-bb72-9616a5994fba",
+      "halt_board"
     ],
     [
       "38a9f643-4ad5-4ab6-a23f-d1ffa9ec187c",
