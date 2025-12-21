@@ -1,0 +1,243 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "00f9de9f-6e16-4126-a022-a7b5fad77592")
+	(paper "A4")
+	(title_block
+		(rev "1.0")
+		(company "Author: 9551 (devvie.cc)")
+	)
+	(lib_symbols)
+	(sheet
+		(at 184.15 30.48)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "38a9f643-4ad5-4ab6-a23f-d1ffa9ec187c")
+		(property "Sheetname" "halt_output_stage"
+			(at 184.15 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "output_stage.kicad_sch"
+			(at 184.15 34.8746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hardware"
+				(path "/606d342f-174b-4504-b335-50f65aa4e733/9d9bac97-3577-4438-bb72-9616a5994fba"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 70.485 27.305)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "726729c9-3f40-472a-9b33-661965218c62")
+		(property "Sheetname" "halt_uvlo"
+			(at 70.485 26.5934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "uvlo.kicad_sch"
+			(at 70.485 31.6996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hardware"
+				(path "/606d342f-174b-4504-b335-50f65aa4e733/9d9bac97-3577-4438-bb72-9616a5994fba"
+					(page "4")
+				)
+			)
+			(project "base"
+				(path "/00f9de9f-6e16-4126-a022-a7b5fad77592"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 26.67)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8b2072f1-4473-43e6-a1a2-fbe5e7e9ad6a")
+		(property "Sheetname" "halt_input_supply"
+			(at 24.13 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "input_supply.kicad_sch"
+			(at 24.13 31.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hardware"
+				(path "/606d342f-174b-4504-b335-50f65aa4e733/9d9bac97-3577-4438-bb72-9616a5994fba"
+					(page "2")
+				)
+			)
+			(project "base"
+				(path "/00f9de9f-6e16-4126-a022-a7b5fad77592"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 29.21)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a409a8cb-f964-452b-bbc0-32d52bd5757c")
+		(property "Sheetname" "halt_ocd_buck"
+			(at 144.78 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "halt_ocd_buck.kicad_sch"
+			(at 144.78 33.6046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hardware"
+				(path "/606d342f-174b-4504-b335-50f65aa4e733/9d9bac97-3577-4438-bb72-9616a5994fba"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 107.95 27.94)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c5ac5cd0-b88d-4bb3-b165-3a793af70e81")
+		(property "Sheetname" "halt_ocd_primary"
+			(at 107.95 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "halt_ocd_primary.kicad_sch"
+			(at 107.95 32.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hardware"
+				(path "/606d342f-174b-4504-b335-50f65aa4e733/9d9bac97-3577-4438-bb72-9616a5994fba"
+					(page "3")
+				)
+			)
+			(project "base"
+				(path "/00f9de9f-6e16-4126-a022-a7b5fad77592"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
