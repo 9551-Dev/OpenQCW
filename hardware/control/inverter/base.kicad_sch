@@ -1,0 +1,646 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "330b4906-3fe3-4460-81da-817e7684a080")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 92.71 67.31) (xy 96.52 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "029614bd-ddfe-473e-93ea-496ed4bc1d2c")
+	)
+	(wire
+		(pts
+			(xy 40.64 40.64) (xy 59.69 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "071c84ff-cf9f-4263-8ab3-c651b19371f9")
+	)
+	(wire
+		(pts
+			(xy 92.71 34.29) (xy 97.79 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "073445f4-426d-40a0-bef3-efb85baf6cbe")
+	)
+	(wire
+		(pts
+			(xy 40.64 77.47) (xy 59.69 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "122a70a5-dfed-4b73-9a42-56e6041df306")
+	)
+	(wire
+		(pts
+			(xy 40.64 43.18) (xy 59.69 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1632fb3a-41e5-44c8-a374-9ae685241f6b")
+	)
+	(wire
+		(pts
+			(xy 40.64 95.25) (xy 59.69 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "219fe474-809f-41c9-9b48-1a17c314b0ae")
+	)
+	(wire
+		(pts
+			(xy 40.64 80.01) (xy 59.69 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "275da5f6-a7b0-4c3e-8a87-c467effdcbe5")
+	)
+	(wire
+		(pts
+			(xy 96.52 67.31) (xy 96.52 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f34ce13-30a7-431c-8fba-46c15f84ef6a")
+	)
+	(wire
+		(pts
+			(xy 96.52 83.82) (xy 92.71 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "490280d4-bc8e-4324-b287-776f03980911")
+	)
+	(wire
+		(pts
+			(xy 97.79 86.36) (xy 92.71 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51741bc1-6d85-46a0-ade5-2f944e0f339f")
+	)
+	(wire
+		(pts
+			(xy 97.79 57.15) (xy 92.71 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59e12086-0412-4e8e-93ab-1049d4315839")
+	)
+	(wire
+		(pts
+			(xy 96.52 36.83) (xy 96.52 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66bbcb5f-b685-41e1-8c30-54f85126ceb6")
+	)
+	(wire
+		(pts
+			(xy 92.71 36.83) (xy 96.52 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "848fb0b4-3517-4b39-839e-0e4b0278b216")
+	)
+	(wire
+		(pts
+			(xy 96.52 54.61) (xy 92.71 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96c75dda-d9b2-43c2-92b2-26e8a9891cde")
+	)
+	(wire
+		(pts
+			(xy 40.64 30.48) (xy 59.69 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a257af7d-792a-433f-b780-6a9eea4a736d")
+	)
+	(wire
+		(pts
+			(xy 40.64 92.71) (xy 59.69 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b305229c-d76a-43b3-b19e-8ccdfeaad6bb")
+	)
+	(wire
+		(pts
+			(xy 92.71 64.77) (xy 97.79 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5b888bf-bfb3-47a3-99a0-c1e84ecc09a8")
+	)
+	(wire
+		(pts
+			(xy 97.79 64.77) (xy 97.79 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9a0eed6-9061-413a-8946-31ba68417f2d")
+	)
+	(wire
+		(pts
+			(xy 40.64 97.79) (xy 59.69 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d55aa961-4f9c-442a-a7b5-a2abd27ae400")
+	)
+	(wire
+		(pts
+			(xy 40.64 90.17) (xy 59.69 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7c23ad4-d201-4515-8816-a30c46ce718e")
+	)
+	(wire
+		(pts
+			(xy 97.79 34.29) (xy 97.79 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0a9e531-f59a-40d0-9628-b56dc0c7e611")
+	)
+	(sheet
+		(at 59.69 52.07)
+		(size 33.02 17.145)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "410e9c0f-dfac-4c9e-ab44-6ad5697bd819")
+		(property "Sheetname" "interrupt_cross_off"
+			(at 59.69 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "interrupt_cross_turnoff.kicad_sch"
+			(at 59.69 69.7996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "INVERTER_RAW_FEEDBACK-" bidirectional
+			(at 92.71 54.61 0)
+			(uuid "d5e5a308-bc73-4dfb-ac8c-2c720c094843")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INVERTER_FEEDBACK+" bidirectional
+			(at 92.71 64.77 0)
+			(uuid "9d51450e-12c7-41cb-8a60-027a9e245e99")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INVERTER_FEEDBACK-" bidirectional
+			(at 92.71 67.31 0)
+			(uuid "4c2675f6-bf3e-479a-a82a-2d135c0ae182")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INVERTER_RAW_FEEDBACK+" bidirectional
+			(at 92.71 57.15 0)
+			(uuid "fdcb8050-0179-4b57-b467-049c3cd849b8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "hardware"
+				(path "/606d342f-174b-4504-b335-50f65aa4e733/31b9362a-87aa-4ca5-9e9f-d5489b7d3e5d"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.955 27.94)
+		(size 19.685 71.755)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6885f5aa-6c0c-47d4-a1ee-15be48410dd6")
+		(property "Sheetname" "inverter_input_supply"
+			(at 20.955 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "input_supply.kicad_sch"
+			(at 20.955 100.2796 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FEEDBACK_CT_A" bidirectional
+			(at 40.64 40.64 0)
+			(uuid "30b692ad-88a7-4791-9d7b-e555f4ddafcb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INVERTER_GDT_2A" bidirectional
+			(at 40.64 95.25 0)
+			(uuid "4e5af1a0-d353-4336-9754-bea704b90194")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INVERTER_GDT_1B" bidirectional
+			(at 40.64 92.71 0)
+			(uuid "569481f6-7e3f-4400-8dbb-08c75dbde58b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "inverter_15v_a" bidirectional
+			(at 40.64 77.47 0)
+			(uuid "84cee63e-8a5e-45a5-a0a5-5e1038991718")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INVERTER_GDT_1A" bidirectional
+			(at 40.64 90.17 0)
+			(uuid "95846573-a3b2-457a-b4fc-c4c068d505e1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INVERTER_GDT_2B" bidirectional
+			(at 40.64 97.79 0)
+			(uuid "e983aa7a-152d-4bd0-a367-9984929c78f2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FEEDBACK_CT_B" bidirectional
+			(at 40.64 43.18 0)
+			(uuid "a641c92d-7618-4eaf-aa8f-75040c7671d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "inverter_5v" bidirectional
+			(at 40.64 30.48 0)
+			(uuid "baf528d3-e4ac-48f8-bfd0-19a04e6c98c9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "inverter_15v_b" bidirectional
+			(at 40.64 80.01 0)
+			(uuid "347d20c2-87f4-44d5-bddd-ade46ae515b3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "hardware"
+				(path "/606d342f-174b-4504-b335-50f65aa4e733/31b9362a-87aa-4ca5-9e9f-d5489b7d3e5d"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 59.69 75.565)
+		(size 33.02 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a4b4d7e4-1905-4659-a585-0a112bd7ab50")
+		(property "Sheetname" "inverter_gdt_outstage"
+			(at 59.69 74.8534 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "output_stage.kicad_sch"
+			(at 59.69 100.2796 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "INVERTER_GDT_1B" bidirectional
+			(at 59.69 92.71 180)
+			(uuid "30493b7c-0a63-4948-8d3f-78dce1e1973f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "INVERTER_GDT_1A" bidirectional
+			(at 59.69 90.17 180)
+			(uuid "8ccb1a16-a51e-444a-a405-e83096b89212")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "inverter_15v_b" bidirectional
+			(at 59.69 80.01 180)
+			(uuid "2bc58944-7ab3-4445-a887-163b72d2af36")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "inverter_15v_a" bidirectional
+			(at 59.69 77.47 180)
+			(uuid "5108ceb0-ad67-455c-9d82-4e526d2b81f0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "INVERTER_GDT_2A" bidirectional
+			(at 59.69 95.25 180)
+			(uuid "e2b51ddd-af78-48d0-afbf-d274d0d33274")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "INVERTER_GDT_2B" bidirectional
+			(at 59.69 97.79 180)
+			(uuid "641218da-3f4e-4515-a7fd-fbaf8a74b12e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "INVERTER_FEEDBACK+" bidirectional
+			(at 92.71 86.36 0)
+			(uuid "076e8409-a378-4894-af55-a153346ac2a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INVERTER_FEEDBACK-" bidirectional
+			(at 92.71 83.82 0)
+			(uuid "8fad578e-5b7f-4eb3-97cc-1fe862555a30")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "hardware"
+				(path "/606d342f-174b-4504-b335-50f65aa4e733/31b9362a-87aa-4ca5-9e9f-d5489b7d3e5d"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 59.69 28.575)
+		(size 33.02 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ea4aa7f9-d482-48c2-be71-fb828371d9e3")
+		(property "Sheetname" "inverter_feedback"
+			(at 59.69 27.8634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "feedback.kicad_sch"
+			(at 59.69 45.6696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FEEDBACK_CT_A" bidirectional
+			(at 59.69 40.64 180)
+			(uuid "2a397310-0cc4-4d3e-b662-010b1152022b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "inverter_5v" bidirectional
+			(at 59.69 30.48 180)
+			(uuid "7f0c7e52-2132-4cff-9e58-156a41063bfa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "INVERTER_RAW_FEEDBACK+" bidirectional
+			(at 92.71 34.29 0)
+			(uuid "0dd17114-95d6-462b-babc-17becfafcdd0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INVERTER_RAW_FEEDBACK-" bidirectional
+			(at 92.71 36.83 0)
+			(uuid "8b8fc4ff-8217-4529-a666-385f73bc1e7f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FEEDBACK_CT_B" bidirectional
+			(at 59.69 43.18 180)
+			(uuid "7765b6e0-349f-4bab-a962-6a6605cde9b5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "hardware"
+				(path "/606d342f-174b-4504-b335-50f65aa4e733/31b9362a-87aa-4ca5-9e9f-d5489b7d3e5d"
+					(page "10")
+				)
+			)
+		)
+	)
+)

@@ -6,6 +6,48 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 72.39 41.91)
+		(size 19.05 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "31b9362a-87aa-4ca5-9e9f-d5489b7d3e5d")
+		(property "Sheetname" "inverter_board"
+			(at 72.39 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "control/inverter/base.kicad_sch"
+			(at 72.39 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hardware"
+				(path "/606d342f-174b-4504-b335-50f65aa4e733"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 35.56 42.545)
 		(size 12.7 18.415)
 		(exclude_from_sim no)

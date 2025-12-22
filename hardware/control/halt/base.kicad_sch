@@ -9,9 +9,309 @@
 		(company "Author: 9551 (devvie.cc)")
 	)
 	(lib_symbols)
+	(junction
+		(at 135.89 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d150a61-413b-4bbd-8fe4-5bd95622529e")
+	)
+	(junction
+		(at 135.89 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6ad0a8da-d44d-4ca3-8ddc-39f90d3f1af4")
+	)
+	(junction
+		(at 135.89 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c0a947b-00b3-46f7-b4f0-b190448e53be")
+	)
+	(junction
+		(at 134.62 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9e144b9a-9bf1-4b61-9ee9-cfa9e696d418")
+	)
+	(junction
+		(at 134.62 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf0494cd-343e-4e38-96b0-333ac28705b1")
+	)
+	(wire
+		(pts
+			(xy 168.91 115.57) (xy 162.56 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0332731d-8fa6-4834-8850-669ab7109e11")
+	)
+	(wire
+		(pts
+			(xy 168.91 132.08) (xy 168.91 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03fbe58f-d806-49af-a1d4-f2ee26bc8277")
+	)
+	(wire
+		(pts
+			(xy 135.89 83.82) (xy 138.43 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08e074da-192d-4518-bf9e-1891bf5dcc52")
+	)
+	(wire
+		(pts
+			(xy 104.14 113.03) (xy 138.43 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0aa7d531-1090-412d-81ac-80a3b4ba3b5a")
+	)
+	(wire
+		(pts
+			(xy 104.14 92.71) (xy 138.43 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41db6c6a-30f6-4c6f-8b40-da6f81e6b46f")
+	)
+	(wire
+		(pts
+			(xy 161.29 137.16) (xy 171.45 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bf60529-3969-4db7-9154-901434f72abe")
+	)
+	(wire
+		(pts
+			(xy 134.62 86.36) (xy 134.62 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50aa617f-39a3-4f33-9faa-e20917c79850")
+	)
+	(wire
+		(pts
+			(xy 171.45 73.66) (xy 160.02 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52b6e36b-9af4-4130-a972-b742cfb020fe")
+	)
+	(wire
+		(pts
+			(xy 170.18 134.62) (xy 161.29 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53d02c4d-04fa-4ff0-992f-13eeb00e81ba")
+	)
+	(wire
+		(pts
+			(xy 135.89 83.82) (xy 135.89 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54018a2b-1b9b-430f-a40f-605e8d5d7682")
+	)
+	(wire
+		(pts
+			(xy 104.14 64.77) (xy 135.89 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cc00c93-268e-4828-9513-11875291c115")
+	)
+	(wire
+		(pts
+			(xy 162.56 95.25) (xy 170.18 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61e8467c-a50b-432c-b341-bdc5378f70f0")
+	)
+	(wire
+		(pts
+			(xy 161.29 132.08) (xy 168.91 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6afa8cfd-0c4b-45d9-bbf1-67b98f112b59")
+	)
+	(wire
+		(pts
+			(xy 104.14 110.49) (xy 138.43 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76c43d43-d4e1-4f5c-96bd-feac2799569a")
+	)
+	(wire
+		(pts
+			(xy 134.62 67.31) (xy 134.62 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7717b6ba-8eb8-408a-a483-e6f81e29b55b")
+	)
+	(wire
+		(pts
+			(xy 135.89 125.73) (xy 135.89 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77cd12d0-bcb9-4c4f-b2d3-2569d7cdde94")
+	)
+	(wire
+		(pts
+			(xy 134.62 86.36) (xy 138.43 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9249f32e-875e-462b-927d-923030b3cb03")
+	)
+	(wire
+		(pts
+			(xy 135.89 64.77) (xy 138.43 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b9ed05a-0bc9-4967-b8c0-1f9ecc48f4e4")
+	)
+	(wire
+		(pts
+			(xy 135.89 104.14) (xy 138.43 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac319892-22cd-4eae-9f46-bb9d529c581c")
+	)
+	(wire
+		(pts
+			(xy 138.43 125.73) (xy 135.89 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac415278-77d7-4c09-becd-26aa3da6d61c")
+	)
+	(wire
+		(pts
+			(xy 104.14 67.31) (xy 134.62 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9e29192-063c-4e45-bcbf-7170bc487bb2")
+	)
+	(wire
+		(pts
+			(xy 171.45 137.16) (xy 171.45 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbc69d08-4680-4ea0-948c-efebf2ab2f6c")
+	)
+	(wire
+		(pts
+			(xy 104.14 90.17) (xy 138.43 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bca46fa5-0f4f-4e90-8bea-daf950fa8e83")
+	)
+	(wire
+		(pts
+			(xy 134.62 67.31) (xy 138.43 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1ab3b1e-9f1a-42a2-bc21-0afa154da183")
+	)
+	(wire
+		(pts
+			(xy 135.89 64.77) (xy 135.89 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d34ec2da-e25f-4b34-bd43-4404d7ef80fc")
+	)
+	(wire
+		(pts
+			(xy 170.18 95.25) (xy 170.18 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e207358f-8ed7-4fab-aa1e-aef6315f5d86")
+	)
+	(wire
+		(pts
+			(xy 134.62 106.68) (xy 138.43 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f701c8e5-be87-44b9-8017-47cce6e49bbe")
+	)
 	(sheet
-		(at 184.15 30.48)
-		(size 12.7 3.81)
+		(at 138.43 123.19)
+		(size 22.86 16.256)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -26,7 +326,7 @@
 		)
 		(uuid "38a9f643-4ad5-4ab6-a23f-d1ffa9ec187c")
 		(property "Sheetname" "halt_output_stage"
-			(at 184.15 29.7684 0)
+			(at 138.43 122.4784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35,12 +335,52 @@
 			)
 		)
 		(property "Sheetfile" "output_stage.kicad_sch"
-			(at 184.15 34.8746 0)
+			(at 138.43 140.0306 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "BUCK_OCD_OK" bidirectional
+			(at 161.29 132.08 0)
+			(uuid "63c5b5a0-bf5b-48f2-99cf-b109f4be1570")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SUPPLY_UVLO_OK" bidirectional
+			(at 161.29 137.16 0)
+			(uuid "94d0cdf1-6f66-4b0f-abb6-7913c86f3317")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "halt_5v" bidirectional
+			(at 138.43 125.73 180)
+			(uuid "0fef0acc-09bf-44ab-8af3-6f5d0d0f4c23")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PRIMARY_OCD_OK" bidirectional
+			(at 161.29 134.62 0)
+			(uuid "807744cb-80ad-4040-a095-fc75bc839cc3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -52,8 +392,8 @@
 		)
 	)
 	(sheet
-		(at 70.485 27.305)
-		(size 12.7 3.81)
+		(at 138.43 62.865)
+		(size 21.59 13.589)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -68,7 +408,7 @@
 		)
 		(uuid "726729c9-3f40-472a-9b33-661965218c62")
 		(property "Sheetname" "halt_uvlo"
-			(at 70.485 26.5934 0)
+			(at 138.43 62.1534 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -77,12 +417,42 @@
 			)
 		)
 		(property "Sheetfile" "uvlo.kicad_sch"
-			(at 70.485 31.6996 0)
+			(at 138.43 77.0386 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "halt_5v" bidirectional
+			(at 138.43 64.77 180)
+			(uuid "d7343a56-56f6-4d2c-9d21-4aaac98c996b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "halt_12v" bidirectional
+			(at 138.43 67.31 180)
+			(uuid "f332dbda-b994-491c-a2b6-072354487e4f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SUPPLY_UVLO_OK" bidirectional
+			(at 160.02 73.66 0)
+			(uuid "337ceab5-ae55-4782-bfa4-aae9d52ca65b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -99,8 +469,8 @@
 		)
 	)
 	(sheet
-		(at 24.13 26.67)
-		(size 12.7 3.81)
+		(at 87.376 62.992)
+		(size 16.764 76.708)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -115,7 +485,7 @@
 		)
 		(uuid "8b2072f1-4473-43e6-a1a2-fbe5e7e9ad6a")
 		(property "Sheetname" "halt_input_supply"
-			(at 24.13 25.9584 0)
+			(at 87.376 62.2804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -124,12 +494,72 @@
 			)
 		)
 		(property "Sheetfile" "input_supply.kicad_sch"
-			(at 24.13 31.0646 0)
+			(at 87.376 140.2846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "halt_12v" bidirectional
+			(at 104.14 67.31 0)
+			(uuid "9dbfb493-b195-4901-9159-0cf39afdb1c2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "halt_5v" bidirectional
+			(at 104.14 64.77 0)
+			(uuid "9e93e29f-0868-4bae-965e-c27a6c6d13b3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HALT_OCD_1A" bidirectional
+			(at 104.14 90.17 0)
+			(uuid "1107a103-2fe2-43b7-a658-dc1145c941ab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HALT_OCD_2A" bidirectional
+			(at 104.14 113.03 0)
+			(uuid "0ed86456-a902-4f57-aa65-d0b9c4e26421")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HALT_OCD_2B" bidirectional
+			(at 104.14 110.49 0)
+			(uuid "eb6f4600-e379-486c-8ee4-af87e2b9741a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HALT_OCD_1B" bidirectional
+			(at 104.14 92.71 0)
+			(uuid "e4b0921e-b7ab-4e50-9236-ecd2c495f88c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -146,8 +576,8 @@
 		)
 	)
 	(sheet
-		(at 144.78 29.21)
-		(size 12.7 3.81)
+		(at 138.43 102.362)
+		(size 24.13 14.478)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -162,7 +592,7 @@
 		)
 		(uuid "a409a8cb-f964-452b-bbc0-32d52bd5757c")
 		(property "Sheetname" "halt_ocd_buck"
-			(at 144.78 28.4984 0)
+			(at 138.43 101.6504 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -171,12 +601,62 @@
 			)
 		)
 		(property "Sheetfile" "halt_ocd_buck.kicad_sch"
-			(at 144.78 33.6046 0)
+			(at 138.43 117.4246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "halt_12v" bidirectional
+			(at 138.43 106.68 180)
+			(uuid "254ce334-2b11-4b22-8409-7b7a4f2e61a5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HALT_OCD_2B" bidirectional
+			(at 138.43 113.03 180)
+			(uuid "33d37864-a166-482c-a8ec-b46da047e09d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HALT_OCD_2A" bidirectional
+			(at 138.43 110.49 180)
+			(uuid "a8333585-9f8e-401e-8fa3-3e23276f0c09")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "halt_5v" bidirectional
+			(at 138.43 104.14 180)
+			(uuid "66272cc1-510f-4907-9970-20d1dd2973b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BUCK_OCD_OK" bidirectional
+			(at 162.56 115.57 0)
+			(uuid "428bc864-5658-4ee9-a2a6-573752d41453")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -188,8 +668,8 @@
 		)
 	)
 	(sheet
-		(at 107.95 27.94)
-		(size 12.7 3.81)
+		(at 138.43 82.296)
+		(size 24.13 14.224)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -204,7 +684,7 @@
 		)
 		(uuid "c5ac5cd0-b88d-4bb3-b165-3a793af70e81")
 		(property "Sheetname" "halt_ocd_primary"
-			(at 107.95 27.2284 0)
+			(at 138.43 81.5844 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -213,12 +693,62 @@
 			)
 		)
 		(property "Sheetfile" "halt_ocd_primary.kicad_sch"
-			(at 107.95 32.3346 0)
+			(at 138.43 97.1046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "HALT_OCD_1A" bidirectional
+			(at 138.43 90.17 180)
+			(uuid "9aa933d0-4897-4fbb-ab23-f6793c5050d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PRIMARY_OCD_OK" bidirectional
+			(at 162.56 95.25 0)
+			(uuid "ad2dfc71-4e70-43ee-90b4-fde3d2197c3e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "halt_5v" bidirectional
+			(at 138.43 83.82 180)
+			(uuid "1c094d92-71f6-48a1-83e9-d67b2b08f914")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "halt_12v" bidirectional
+			(at 138.43 86.36 180)
+			(uuid "24a7561f-d170-43e5-a51d-2f0beb1a5dc9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HALT_OCD_1B" bidirectional
+			(at 138.43 92.71 180)
+			(uuid "391eaa18-e37d-42ab-8d9e-f9a28f81eb5d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances

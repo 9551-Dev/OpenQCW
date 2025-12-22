@@ -1635,137 +1635,71 @@
 		)
 		(uuid "ef395da9-f5d6-4166-9da5-95a8be9128ac")
 	)
-	(global_label "halt_12v"
-		(shape bidirectional)
-		(at 143.51 81.28 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "003850d9-05e3-4625-9b54-18cf80c46a34")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.3704 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "HALT_OCD_1A"
-		(shape bidirectional)
-		(at 99.06 91.44 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "18d920b1-2b9a-487e-9fd8-641967794710")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 82.4449 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "PRIMARY_OCD_OK"
-		(shape bidirectional)
-		(at 180.34 93.98 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5fe739af-e4b0-414d-b874-ec5950838363")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 200.8861 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "halt_12v"
-		(shape bidirectional)
-		(at 160.02 114.3 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9e4870e6-f6c5-4b35-95a4-2704c359af8e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.02 126.4396 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "halt_5v"
-		(shape bidirectional)
-		(at 180.34 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a037f5cf-06a7-4536-97bf-dfd61d36976b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.2701 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "HALT_OCD_1B"
+	(hierarchical_label "HALT_OCD_1B"
 		(shape bidirectional)
 		(at 99.06 100.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "f71822fa-8681-49b1-97fc-2988f589d629")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 82.2635 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
+		(uuid "3ae95e0b-a84b-4785-804b-a29389fea978")
+	)
+	(hierarchical_label "HALT_OCD_1A"
+		(shape bidirectional)
+		(at 99.06 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
+			(justify right)
 		)
+		(uuid "3e1b38ac-4f78-40b1-b174-9a5d66cc58fa")
+	)
+	(hierarchical_label "PRIMARY_OCD_OK"
+		(shape bidirectional)
+		(at 180.34 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5d4b0683-48d3-41f6-9df7-25c43d47dc64")
+	)
+	(hierarchical_label "halt_5v"
+		(shape bidirectional)
+		(at 180.34 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7ef57d9f-fae2-464c-ab09-c06290781f0e")
+	)
+	(hierarchical_label "halt_12v"
+		(shape bidirectional)
+		(at 160.02 114.3 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f9b1bea1-cf88-44ee-a46e-d02b1f45bca4")
+	)
+	(hierarchical_label "halt_12v"
+		(shape bidirectional)
+		(at 143.51 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ff5741cc-5c2b-43b7-89ba-41802f27b52e")
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")

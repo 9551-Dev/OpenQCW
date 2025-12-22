@@ -1,0 +1,96 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "988600e3-a467-43fc-b088-0605bef1e4f8")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "INVERTER_GDT_1A"
+		(shape bidirectional)
+		(at 58.42 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "13a33721-a868-4317-9c5b-cdbaf7212735")
+	)
+	(hierarchical_label "inverter_15v_a"
+		(shape bidirectional)
+		(at 58.42 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1c7ca714-db68-42d6-bfa5-4e1d46fe60d0")
+	)
+	(hierarchical_label "INVERTER_GDT_2A"
+		(shape bidirectional)
+		(at 58.42 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7423f0f8-8f5b-4a31-b467-21ebd210088d")
+	)
+	(hierarchical_label "inverter_15v_b"
+		(shape bidirectional)
+		(at 58.42 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8bbc08c4-03fd-495a-99d7-d217c73b5ab7")
+	)
+	(hierarchical_label "INVERTER_FEEDBACK-"
+		(shape bidirectional)
+		(at 87.63 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b5b543a8-b3fe-44f5-a194-202e0f911871")
+	)
+	(hierarchical_label "INVERTER_GDT_1B"
+		(shape bidirectional)
+		(at 58.42 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b607d179-cfda-463e-98c9-96014bf7ce1e")
+	)
+	(hierarchical_label "INVERTER_FEEDBACK+"
+		(shape bidirectional)
+		(at 87.63 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e66c6a54-9717-4792-b3bf-47a215ff6378")
+	)
+	(hierarchical_label "INVERTER_GDT_2B"
+		(shape bidirectional)
+		(at 58.42 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f67c243c-029e-42fb-b252-cd67870ddc7f")
+	)
+)
