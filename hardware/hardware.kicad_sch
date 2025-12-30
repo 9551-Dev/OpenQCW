@@ -6,6 +6,48 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 36.195 168.91)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0525e434-2bc2-4b88-bfc1-b7165aa99337")
+		(property "Sheetname" "main_coils"
+			(at 36.195 168.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power/main_coils/base.kicad_sch"
+			(at 36.195 173.3046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "hardware"
+				(path "/606d342f-174b-4504-b335-50f65aa4e733"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 72.39 41.91)
 		(size 19.05 20.32)
 		(exclude_from_sim no)

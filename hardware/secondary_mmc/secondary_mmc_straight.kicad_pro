@@ -48,10 +48,16 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.2
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -180,7 +186,13 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.2,
+        1.0,
+        1.5,
+        2.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -207,7 +219,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -451,7 +468,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "hardware.kicad_pro",
+    "filename": "secondary_mmc.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -487,7 +504,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -563,12 +580,6 @@
         },
         {
           "group_by": false,
-          "label": "Sim.Pins",
-          "name": "Sim.Pins",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "Description",
           "name": "Description",
           "show": false
@@ -577,24 +588,6 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "PROD_ID",
-          "name": "PROD_ID",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Tolerance",
-          "name": "Tolerance",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Voltage",
-          "name": "Voltage",
           "show": false
         }
       ],
@@ -647,60 +640,8 @@
   },
   "sheets": [
     [
-      "606d342f-174b-4504-b335-50f65aa4e733",
+      "1b3c77b5-6107-482e-ab71-c1280dc3042a",
       "Root"
-    ],
-    [
-      "8b2072f1-4473-43e6-a1a2-fbe5e7e9ad6a",
-      "halt_input_supply"
-    ],
-    [
-      "c5ac5cd0-b88d-4bb3-b165-3a793af70e81",
-      "halt_ocd_primary"
-    ],
-    [
-      "726729c9-3f40-472a-9b33-661965218c62",
-      "halt_uvlo"
-    ],
-    [
-      "a409a8cb-f964-452b-bbc0-32d52bd5757c",
-      "halt_ocd_buck"
-    ],
-    [
-      "9d9bac97-3577-4438-bb72-9616a5994fba",
-      "halt_board"
-    ],
-    [
-      "38a9f643-4ad5-4ab6-a23f-d1ffa9ec187c",
-      "halt_output_stage"
-    ],
-    [
-      "31b9362a-87aa-4ca5-9e9f-d5489b7d3e5d",
-      "inverter_board"
-    ],
-    [
-      "6885f5aa-6c0c-47d4-a1ee-15be48410dd6",
-      "inverter_input_supply"
-    ],
-    [
-      "ea4aa7f9-d482-48c2-be71-fb828371d9e3",
-      "inverter_feedback"
-    ],
-    [
-      "410e9c0f-dfac-4c9e-ab44-6ad5697bd819",
-      "interrupt_cross_off"
-    ],
-    [
-      "a4b4d7e4-1905-4659-a585-0a112bd7ab50",
-      "inverter_gdt_outstage"
-    ],
-    [
-      "0525e434-2bc2-4b88-bfc1-b7165aa99337",
-      "main_coils"
-    ],
-    [
-      "84e3edcc-5c87-4329-a259-f21375c49e71",
-      "secondary_mmc_bank"
     ]
   ],
   "text_variables": {}
