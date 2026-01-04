@@ -155,7 +155,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7668346c-0529-49df-9269-e7a0bdea8aed")
-		(property "Reference" "C1"
+		(property "Reference" "C?"
 			(at 80.01 101.5999 0)
 			(effects
 				(font
@@ -210,6 +210,12 @@
 			(project ""
 				(path "/4a5fd309-93bb-45a7-b002-8896dc6a52a3/84e3edcc-5c87-4329-a259-f21375c49e71"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+			(project "hardware"
+				(path "/606d342f-174b-4504-b335-50f65aa4e733/0525e434-2bc2-4b88-bfc1-b7165aa99337/84e3edcc-5c87-4329-a259-f21375c49e71"
+					(reference "C?")
 					(unit 1)
 				)
 			)

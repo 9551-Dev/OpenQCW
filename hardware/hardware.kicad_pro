@@ -701,6 +701,10 @@
     [
       "84e3edcc-5c87-4329-a259-f21375c49e71",
       "secondary_mmc_bank"
+    ],
+    [
+      "063ba78c-409e-451d-af63-65489b19017a",
+      "inverter_self_osc_feedback_pass"
     ]
   ],
   "text_variables": {}
