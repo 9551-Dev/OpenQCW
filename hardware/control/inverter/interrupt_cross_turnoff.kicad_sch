@@ -2738,12 +2738,6 @@
 		(color 0 0 0 0)
 		(uuid "33ea4b9d-9a21-4a19-a6f7-28e696044878")
 	)
-	(junction
-		(at 180.34 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c59c9d4c-b321-4688-86f3-007255c9ddcb")
-	)
 	(wire
 		(pts
 			(xy 149.86 102.87) (xy 151.13 102.87)
@@ -2853,16 +2847,6 @@
 			(type default)
 		)
 		(uuid "3ca5b654-3aea-4793-8a34-887a0c9db2c6")
-	)
-	(wire
-		(pts
-			(xy 181.61 102.87) (xy 180.34 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f30e38b-e935-4505-91a7-7f2270895965")
 	)
 	(wire
 		(pts
@@ -3138,17 +3122,6 @@
 			(justify right)
 		)
 		(uuid "2ee35303-d8a8-480c-a359-bf740df69fb1")
-	)
-	(hierarchical_label "INVERTER_RUN_STATE"
-		(shape bidirectional)
-		(at 181.61 102.87 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c8f72be5-83fb-4f05-815d-64a486387c6a")
 	)
 	(symbol
 		(lib_id "Device:R")

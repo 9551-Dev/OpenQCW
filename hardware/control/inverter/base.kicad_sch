@@ -126,48 +126,6 @@
 		(uuid "e0a9e531-f59a-40d0-9628-b56dc0c7e611")
 	)
 	(sheet
-		(at 59.69 74.93)
-		(size 33.02 19.685)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "063ba78c-409e-451d-af63-65489b19017a")
-		(property "Sheetname" "inverter_self_osc_feedback_pass"
-			(at 59.69 74.2184 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "self_oscillation_feedback_pass.kicad_sch"
-			(at 59.69 95.1996 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "hardware"
-				(path "/606d342f-174b-4504-b335-50f65aa4e733/31b9362a-87aa-4ca5-9e9f-d5489b7d3e5d"
-					(page "15")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 59.69 52.07)
 		(size 33.02 17.145)
 		(exclude_from_sim no)
