@@ -47,6 +47,16 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 110.49) (xy 92.71 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fb49bf3-11a6-4578-8efa-890566bd6216")
+	)
+	(wire
+		(pts
 			(xy 40.64 119.38) (xy 59.69 119.38)
 		)
 		(stroke
@@ -57,13 +67,23 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 104.14) (xy 59.69 104.14)
+			(xy 100.33 34.29) (xy 92.71 34.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "275da5f6-a7b0-4c3e-8a87-c467effdcbe5")
+		(uuid "2de43fa0-d497-4107-bad0-d21e824e1525")
+	)
+	(wire
+		(pts
+			(xy 92.71 63.5) (xy 100.33 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3198a6c0-9d88-4510-b16f-dea5caa5e0de")
 	)
 	(wire
 		(pts
@@ -77,6 +97,26 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 66.04) (xy 97.79 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8eb3e463-f2c9-4875-b3e3-68f45335b563")
+	)
+	(wire
+		(pts
+			(xy 97.79 107.95) (xy 92.71 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9114b957-ff30-4ba6-a386-f6a215800ccf")
+	)
+	(wire
+		(pts
 			(xy 40.64 30.48) (xy 59.69 30.48)
 		)
 		(stroke
@@ -87,6 +127,36 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 57.15) (xy 100.33 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab3310e8-9664-4ec1-ae54-d6bd10a23937")
+	)
+	(wire
+		(pts
+			(xy 100.33 63.5) (xy 100.33 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acde7187-79e6-47a7-9a2a-0bd32bb03c4a")
+	)
+	(wire
+		(pts
+			(xy 97.79 66.04) (xy 97.79 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acdfeece-3c28-4efc-99f6-7678b58f869e")
+	)
+	(wire
+		(pts
 			(xy 40.64 116.84) (xy 59.69 116.84)
 		)
 		(stroke
@@ -94,6 +164,16 @@
 			(type default)
 		)
 		(uuid "b305229c-d76a-43b3-b19e-8ccdfeaad6bb")
+	)
+	(wire
+		(pts
+			(xy 100.33 57.15) (xy 100.33 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2ba85e8-3edf-4e10-829d-f645c12eb3d7")
 	)
 	(wire
 		(pts
@@ -169,9 +249,29 @@
 				(justify right)
 			)
 		)
-		(pin "INVERTER_RUN_STATE" bidirectional
-			(at 92.71 67.31 0)
-			(uuid "94881970-2c95-4871-80f7-b6213006e345")
+		(pin "INVERTER_FEEDBACK+" bidirectional
+			(at 92.71 63.5 0)
+			(uuid "d971cbef-24a8-4f22-b900-71cb0e10573f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INVERTER_FEEDBACK-" bidirectional
+			(at 92.71 66.04 0)
+			(uuid "49c44286-f86b-4aca-a185-e257a62adacd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INVERTER_RAW_FEEDBACK-" bidirectional
+			(at 92.71 57.15 0)
+			(uuid "5eed4b56-7004-4931-9787-1c11c58b7a13")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -251,16 +351,6 @@
 				(justify right)
 			)
 		)
-		(pin "inverter_15v_a" bidirectional
-			(at 40.64 101.6 0)
-			(uuid "84cee63e-8a5e-45a5-a0a5-5e1038991718")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "INVERTER_GDT_1A" bidirectional
 			(at 40.64 114.3 0)
 			(uuid "95846573-a3b2-457a-b4fc-c4c068d505e1")
@@ -301,9 +391,9 @@
 				(justify right)
 			)
 		)
-		(pin "inverter_15v_b" bidirectional
-			(at 40.64 104.14 0)
-			(uuid "347d20c2-87f4-44d5-bddd-ade46ae515b3")
+		(pin "inverter_12v" bidirectional
+			(at 40.64 101.6 0)
+			(uuid "eabb9871-e74a-48c8-b9e0-51cf35601fbe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -373,26 +463,6 @@
 				(justify left)
 			)
 		)
-		(pin "inverter_15v_b" bidirectional
-			(at 59.69 104.14 180)
-			(uuid "2bc58944-7ab3-4445-a887-163b72d2af36")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "inverter_15v_a" bidirectional
-			(at 59.69 101.6 180)
-			(uuid "5108ceb0-ad67-455c-9d82-4e526d2b81f0")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "INVERTER_GDT_2A" bidirectional
 			(at 59.69 119.38 180)
 			(uuid "e2b51ddd-af78-48d0-afbf-d274d0d33274")
@@ -431,6 +501,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "inverter_12v" bidirectional
+			(at 59.69 101.6 180)
+			(uuid "0626cfce-2263-400f-afaf-a38eac96bc33")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
