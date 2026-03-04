@@ -3216,12 +3216,6 @@
 		(uuid "9315f63b-8241-4d8e-9081-f6a317693e86")
 	)
 	(junction
-		(at 78.74 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a3ef2ac6-aa78-45ed-8df8-1fe3c349bb3a")
-	)
-	(junction
 		(at 41.91 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3425,6 +3419,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 53.34) (xy 78.74 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2aa0545f-9c5c-4c06-b22e-3cf764ab624d")
+	)
+	(wire
+		(pts
 			(xy 135.89 138.43) (xy 132.08 138.43)
 		)
 		(stroke
@@ -3565,17 +3569,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 53.34) (xy 78.74 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5aedce7e-98ae-474f-b987-5848720b2876")
-	)
-	(wire
-		(pts
-			(xy 78.74 60.96) (xy 63.5 60.96)
+			(xy 78.74 53.34) (xy 76.2 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3642,16 +3636,6 @@
 			(type default)
 		)
 		(uuid "73293316-b292-4a19-8121-773d6940413b")
-	)
-	(wire
-		(pts
-			(xy 78.74 77.47) (xy 78.74 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "746cec14-60ea-40d0-8d4a-2fa31eab99df")
 	)
 	(wire
 		(pts
@@ -4179,7 +4163,7 @@
 	)
 	(global_label "bus_24V"
 		(shape bidirectional)
-		(at 63.5 60.96 180)
+		(at 76.2 53.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4189,7 +4173,7 @@
 		)
 		(uuid "b3243a5f-28b7-4fe6-82bb-7a9d7f2c8413")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 51.6022 60.96 0)
+			(at 64.3022 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)

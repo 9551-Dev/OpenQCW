@@ -27,7 +27,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 101.6) (xy 59.69 101.6)
+			(xy 40.64 78.74) (xy 59.69 78.74)
 		)
 		(stroke
 			(width 0)
@@ -47,7 +47,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 110.49) (xy 92.71 110.49)
+			(xy 100.33 87.63) (xy 92.71 87.63)
 		)
 		(stroke
 			(width 0)
@@ -57,7 +57,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 119.38) (xy 59.69 119.38)
+			(xy 40.64 96.52) (xy 59.69 96.52)
 		)
 		(stroke
 			(width 0)
@@ -107,7 +107,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 107.95) (xy 92.71 107.95)
+			(xy 97.79 85.09) (xy 92.71 85.09)
 		)
 		(stroke
 			(width 0)
@@ -137,7 +137,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 63.5) (xy 100.33 110.49)
+			(xy 100.33 63.5) (xy 100.33 87.63)
 		)
 		(stroke
 			(width 0)
@@ -147,7 +147,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 66.04) (xy 97.79 107.95)
+			(xy 97.79 66.04) (xy 97.79 85.09)
 		)
 		(stroke
 			(width 0)
@@ -157,7 +157,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 116.84) (xy 59.69 116.84)
+			(xy 40.64 93.98) (xy 59.69 93.98)
 		)
 		(stroke
 			(width 0)
@@ -177,7 +177,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 121.92) (xy 59.69 121.92)
+			(xy 40.64 99.06) (xy 59.69 99.06)
 		)
 		(stroke
 			(width 0)
@@ -187,7 +187,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 114.3) (xy 59.69 114.3)
+			(xy 40.64 91.44) (xy 59.69 91.44)
 		)
 		(stroke
 			(width 0)
@@ -289,7 +289,7 @@
 	)
 	(sheet
 		(at 20.955 27.94)
-		(size 19.685 97.155)
+		(size 19.685 73.66)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -313,7 +313,7 @@
 			)
 		)
 		(property "Sheetfile" "input_supply.kicad_sch"
-			(at 20.955 125.6796 0)
+			(at 20.955 102.1846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -332,7 +332,7 @@
 			)
 		)
 		(pin "INVERTER_GDT_2A" bidirectional
-			(at 40.64 119.38 0)
+			(at 40.64 96.52 0)
 			(uuid "4e5af1a0-d353-4336-9754-bea704b90194")
 			(effects
 				(font
@@ -342,7 +342,7 @@
 			)
 		)
 		(pin "INVERTER_GDT_1B" bidirectional
-			(at 40.64 116.84 0)
+			(at 40.64 93.98 0)
 			(uuid "569481f6-7e3f-4400-8dbb-08c75dbde58b")
 			(effects
 				(font
@@ -352,7 +352,7 @@
 			)
 		)
 		(pin "INVERTER_GDT_1A" bidirectional
-			(at 40.64 114.3 0)
+			(at 40.64 91.44 0)
 			(uuid "95846573-a3b2-457a-b4fc-c4c068d505e1")
 			(effects
 				(font
@@ -362,7 +362,7 @@
 			)
 		)
 		(pin "INVERTER_GDT_2B" bidirectional
-			(at 40.64 121.92 0)
+			(at 40.64 99.06 0)
 			(uuid "e983aa7a-152d-4bd0-a367-9984929c78f2")
 			(effects
 				(font
@@ -392,7 +392,7 @@
 			)
 		)
 		(pin "inverter_12v" bidirectional
-			(at 40.64 101.6 0)
+			(at 40.64 78.74 0)
 			(uuid "eabb9871-e74a-48c8-b9e0-51cf35601fbe")
 			(effects
 				(font
@@ -410,7 +410,7 @@
 		)
 	)
 	(sheet
-		(at 59.69 99.695)
+		(at 59.69 76.835)
 		(size 33.02 24.13)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -426,7 +426,7 @@
 		)
 		(uuid "a4b4d7e4-1905-4659-a585-0a112bd7ab50")
 		(property "Sheetname" "inverter_gdt_outstage"
-			(at 59.69 98.9834 0)
+			(at 59.69 76.1234 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -435,7 +435,7 @@
 			)
 		)
 		(property "Sheetfile" "output_stage.kicad_sch"
-			(at 59.69 124.4096 0)
+			(at 59.69 101.5496 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -444,7 +444,7 @@
 			)
 		)
 		(pin "INVERTER_GDT_1B" bidirectional
-			(at 59.69 116.84 180)
+			(at 59.69 93.98 180)
 			(uuid "30493b7c-0a63-4948-8d3f-78dce1e1973f")
 			(effects
 				(font
@@ -454,7 +454,7 @@
 			)
 		)
 		(pin "INVERTER_GDT_1A" bidirectional
-			(at 59.69 114.3 180)
+			(at 59.69 91.44 180)
 			(uuid "8ccb1a16-a51e-444a-a405-e83096b89212")
 			(effects
 				(font
@@ -464,7 +464,7 @@
 			)
 		)
 		(pin "INVERTER_GDT_2A" bidirectional
-			(at 59.69 119.38 180)
+			(at 59.69 96.52 180)
 			(uuid "e2b51ddd-af78-48d0-afbf-d274d0d33274")
 			(effects
 				(font
@@ -474,7 +474,7 @@
 			)
 		)
 		(pin "INVERTER_GDT_2B" bidirectional
-			(at 59.69 121.92 180)
+			(at 59.69 99.06 180)
 			(uuid "641218da-3f4e-4515-a7fd-fbaf8a74b12e")
 			(effects
 				(font
@@ -484,7 +484,7 @@
 			)
 		)
 		(pin "INVERTER_FEEDBACK+" bidirectional
-			(at 92.71 110.49 0)
+			(at 92.71 87.63 0)
 			(uuid "076e8409-a378-4894-af55-a153346ac2a9")
 			(effects
 				(font
@@ -494,7 +494,7 @@
 			)
 		)
 		(pin "INVERTER_FEEDBACK-" bidirectional
-			(at 92.71 107.95 0)
+			(at 92.71 85.09 0)
 			(uuid "8fad578e-5b7f-4eb3-97cc-1fe862555a30")
 			(effects
 				(font
@@ -504,7 +504,7 @@
 			)
 		)
 		(pin "inverter_12v" bidirectional
-			(at 59.69 101.6 180)
+			(at 59.69 78.74 180)
 			(uuid "0626cfce-2263-400f-afaf-a38eac96bc33")
 			(effects
 				(font

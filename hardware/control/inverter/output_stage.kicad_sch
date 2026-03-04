@@ -2060,6 +2060,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 130.81) (xy 193.04 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ded3c9a-5559-4840-ae42-714950ef222c")
+	)
+	(wire
+		(pts
 			(xy 143.51 114.3) (xy 163.83 114.3)
 		)
 		(stroke
@@ -2320,6 +2330,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 82.55) (xy 184.15 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70f5730e-bba5-4d5b-aa5c-919542cd2673")
+	)
+	(wire
+		(pts
 			(xy 102.87 77.47) (xy 100.33 77.47)
 		)
 		(stroke
@@ -2417,16 +2437,6 @@
 			(type default)
 		)
 		(uuid "8a69eab8-b8dc-48e4-8749-9f764a8ecaf9")
-	)
-	(wire
-		(pts
-			(xy 182.88 130.81) (xy 182.88 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92b95041-9b05-4c72-873c-f4dbd707994b")
 	)
 	(wire
 		(pts
@@ -2530,6 +2540,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 82.55) (xy 193.04 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acfe9aa9-a826-4c16-a415-e0a98ee5da45")
+	)
+	(wire
+		(pts
 			(xy 113.03 97.79) (xy 166.37 97.79)
 		)
 		(stroke
@@ -2567,6 +2587,16 @@
 			(type default)
 		)
 		(uuid "b47684d7-3e44-4798-a11d-2c386a87de42")
+	)
+	(wire
+		(pts
+			(xy 182.88 130.81) (xy 184.15 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6568f88-79a8-413c-8632-c7f84688d2ea")
 	)
 	(wire
 		(pts
@@ -2697,16 +2727,6 @@
 			(type default)
 		)
 		(uuid "cd3df58a-4042-4fe3-a8a4-b75b344b8c8e")
-	)
-	(wire
-		(pts
-			(xy 182.88 82.55) (xy 182.88 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd5b6b17-7c56-4dea-ac64-098d388fffe5")
 	)
 	(wire
 		(pts
@@ -3046,7 +3066,7 @@
 	)
 	(hierarchical_label "INVERTER_GDT_2B"
 		(shape bidirectional)
-		(at 182.88 133.35 0)
+		(at 193.04 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3057,7 +3077,7 @@
 	)
 	(hierarchical_label "INVERTER_GDT_1B"
 		(shape bidirectional)
-		(at 182.88 86.36 0)
+		(at 193.04 82.55 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3725,7 +3745,7 @@
 		(dnp no)
 		(uuid "3c14b9c9-e789-443c-8eb2-25972fdb0ecc")
 		(property "Reference" "Q4"
-			(at 147.574 124.206 0)
+			(at 147.066 118.872 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3733,7 +3753,7 @@
 			)
 		)
 		(property "Value" "AOD609"
-			(at 149.352 127 0)
+			(at 148.844 121.666 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4532,10 +4552,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "802c065b-03c6-48ad-9f8e-dc650bb98b5d")
 		(property "Reference" "Q5"
-			(at 185.42 124.3898 0)
+			(at 182.88 119.634 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4543,7 +4562,7 @@
 			)
 		)
 		(property "Value" "AOD609"
-			(at 185.42 126.9298 0)
+			(at 183.896 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4596,6 +4615,73 @@
 			(project "hardware"
 				(path "/606d342f-174b-4504-b335-50f65aa4e733/31b9362a-87aa-4ca5-9e9f-d5489b7d3e5d/a4b4d7e4-1905-4659-a585-0a112bd7ab50"
 					(reference "Q5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 187.96 130.81 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8361de86-9e53-4c16-86d3-1659d97814d7")
+		(property "Reference" "C46"
+			(at 187.96 125.476 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.2u"
+			(at 188.214 127.508 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 129.8448 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 187.96 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 187.96 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8f6ccda4-2f0c-458c-bdd0-0f3f59d2254c")
+		)
+		(pin "1"
+			(uuid "f5e5e5ee-960b-4aa7-a080-43b4e3660e52")
+		)
+		(instances
+			(project "hardware"
+				(path "/606d342f-174b-4504-b335-50f65aa4e733/31b9362a-87aa-4ca5-9e9f-d5489b7d3e5d/a4b4d7e4-1905-4659-a585-0a112bd7ab50"
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -4806,10 +4892,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "941f014a-269e-48f2-bc71-4413741464eb")
 		(property "Reference" "Q3"
-			(at 185.42 76.1298 0)
+			(at 182.372 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4817,7 +4902,7 @@
 			)
 		)
 		(property "Value" "AOD609"
-			(at 185.42 78.6698 0)
+			(at 183.896 73.406 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5282,6 +5367,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 187.96 82.55 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b7b1cb1d-2222-4a6c-aab7-85eb4e8ff0c7")
+		(property "Reference" "C45"
+			(at 187.96 77.216 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.2u"
+			(at 188.214 79.248 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 81.5848 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 187.96 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 187.96 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e2be24a4-be51-440f-933e-35e1c699239c")
+		)
+		(pin "1"
+			(uuid "38409892-1345-4046-904d-6be09288c99c")
+		)
+		(instances
+			(project ""
+				(path "/606d342f-174b-4504-b335-50f65aa4e733/31b9362a-87aa-4ca5-9e9f-d5489b7d3e5d/a4b4d7e4-1905-4659-a585-0a112bd7ab50"
+					(reference "C45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_Diode_AKL:1N4148")
 		(at 128.27 119.38 90)
 		(unit 1)
@@ -5632,7 +5784,7 @@
 		(dnp no)
 		(uuid "db76be0e-7811-4897-aff2-3e20f4b3bf86")
 		(property "Reference" "Q2"
-			(at 147.574 75.946 0)
+			(at 147.066 70.612 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5640,7 +5792,7 @@
 			)
 		)
 		(property "Value" "AOD609"
-			(at 149.352 78.74 0)
+			(at 148.844 73.406 0)
 			(effects
 				(font
 					(size 1.27 1.27)
